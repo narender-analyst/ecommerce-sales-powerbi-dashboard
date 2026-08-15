@@ -63,12 +63,12 @@ The dashboard provides analysis of:
 
 ## 🎯 Business Recommendations
 
-- Focus on high-performing months and plan targeted promotions or campaigns during strong sales periods.
-- Monitor payment method performance and ensure the most-used payment options provide a smooth customer experience.
-- Focus on high-performing countries and explore opportunities to expand sales in promising markets.
-- Promote high-order products and use their performance to guide inventory and marketing decisions.
-- Analyze products with lower Average Order Value (AOV) and use cross-selling or upselling strategies to increase revenue per order.
-- Monitor sales trends regularly to identify changes in customer demand and adjust sales and marketing strategies accordingly.
+- Focus on products with high sales and orders.
+- Plan promotions during months with strong sales.
+- Improve sales in countries with lower performance.
+- Promote popular payment methods for a better customer experience.
+- Use cross-selling and upselling to increase Average Order Value.
+- Monitor sales trends regularly to identify changes in customer demand.
 
 ## 🎯 Project Objective
 
